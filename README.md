@@ -1,7 +1,7 @@
 # <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="Ícone de descrição" width="28"> Descrição
 A atividade tem o intuito de demostrar o Diagrama Entidade-Relacionamento de um banco de dados com o tema **Banco** utilizando o software Astah.
 
-# <img src="https://github.com/user-attachments/assets/9759c227-c8b4-4549-bfd0-9aa9f29ca0ca" alt="Ícone de diagrama" width="34"> Atividade
+# <img src="https://img.icons8.com/?size=100&id=duQHzHra9BbD&format=png&color=000000" alt="Ícone de diagrama" width="34"> Atividade
 Crie um fragmento de diagrama ER que contenha o mínimo de 5 conjuntos de entidades e 3 atributos para cada conjunto de entidade para um Banco.
 
 O diagrama deve conter obrigatoriamente ao menos uma vez cada uma das características abaixo:
